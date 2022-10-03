@@ -20,7 +20,6 @@ class Doctor(models.Model):
         ('None', 'Select...'),
         ('Male', 'Male'),
         ('Female', 'Female'),
-        ('Female', 'Female'),
     )
 
     SPE_CHOICES = (
